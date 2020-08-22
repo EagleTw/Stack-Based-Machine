@@ -72,3 +72,10 @@ mul
 inc  
 **Sample Output 4:**  
 21
+
+
+## How to run code.
+
+```$ bash script.sh``` run compiling script
+```$ ./a.out < [files]``` cxecute code in [files] 
+
