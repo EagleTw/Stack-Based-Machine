@@ -76,6 +76,6 @@ inc
 
 ## How to run code.
 
-```$ bash script.sh``` run compiling script
-```$ ./a.out < [files]``` cxecute code in [files] 
+```$ bash script.sh``` run compiling script   
+```$ ./a.out < [files]``` cxecute code in [files]   
 
