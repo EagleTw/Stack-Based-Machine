@@ -1,0 +1,7 @@
+lex.yy.c
+lex.yy.o
+makefile
+a.out
+y.tab.c
+y.tab.h
+y.tab.o

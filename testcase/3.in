@@ -1,0 +1,4 @@
+load 6
+load 5
+delete
+inc

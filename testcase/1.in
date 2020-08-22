@@ -1,0 +1,11 @@
+load 1
+load 1
+dec
+add
+load 10
+inc
+sub
+load 5
+inc
+inc
+mul

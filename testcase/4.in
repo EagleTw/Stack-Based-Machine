@@ -1,0 +1,5 @@
+load 3
+load 4
+delete
+copy
+inc
